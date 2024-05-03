@@ -439,11 +439,14 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "e73",
+      "yuzu"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Yuzu.kicad_pro",
+    "filename": "yuzu-pcb.kicad_pro",
     "version": 1
   },
   "net_settings": {
