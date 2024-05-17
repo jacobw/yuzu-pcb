@@ -17,6 +17,7 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 fp-lib-table
+sym-lib-table
 .DS_Store
 
 # Backups
@@ -31,5 +32,5 @@ fp-lib-table
 *.ses
 
 # Exported BOM files
-*.xml
-*.csv
+# *.xml
+#*.csv
